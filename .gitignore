@@ -1,0 +1,15 @@
+tools/*.jar
+.env
+
+data/problems/ccplus*_locations.json
+data/problems/*_tests.jsonl
+
+__pycache__/
+*.py[cod]
+.venv/
+.ruff_cache/
+.ipynb_checkpoints/
+
+.DS_Store
+.trash/
+.lsp/
